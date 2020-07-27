@@ -1,5 +1,5 @@
 {
-  "name": "mop",
+  "name": "@jayankaghosh/mop",
   "version": "1.0.0",
   "description": "Master of puppets - A puppeteer based cache warmer",
   "main": "src/main.js",
@@ -16,6 +16,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --no-warnings ./src/main.js"
   },
-  "author": "",
+  "author": "Jayanka Ghosh",
   "license": "ISC"
 }
