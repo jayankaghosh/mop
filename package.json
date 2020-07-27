@@ -1,0 +1,21 @@
+{
+  "name": "mop",
+  "version": "1.0.0",
+  "description": "Master of puppets - A puppeteer based cache warmer",
+  "main": "src/main.js",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^5.2.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --no-warnings ./src/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
