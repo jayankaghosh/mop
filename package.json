@@ -17,5 +17,9 @@
     "start": "node --no-warnings ./src/main.js"
   },
   "author": "Jayanka Ghosh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayankaghosh/mop.git"
+  }
 }
